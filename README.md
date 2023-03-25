@@ -1,2 +1,2 @@
 # Portafolio.Tecnolochicas
-Este es un portafolio que se trabajo durante las seciones que se tomaron
+Este es un portafolio que se trabajo durante las clases que se tomaron
